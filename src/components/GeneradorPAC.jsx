@@ -2,11 +2,9 @@
 import { useState } from "react";
 
 const CSS = `
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces...');
 
-import { useState } from "react";
 
-const CSS = `
-  @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;1,9..144,300&family=DM+Sans:wght@300;400;500&display=swap');
 
   :root {
     --verde:   #2D5016;
