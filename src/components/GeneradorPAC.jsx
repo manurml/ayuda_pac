@@ -1,11 +1,8 @@
 'use client';
 import { useState } from "react";
+import Head from "next/head";
 
 const CSS = `
-  @import url('https://fonts.googleapis.com/css2?family=Fraunces...');
-
-
-
   :root {
     --verde:   #2D5016;
     --verde2:  #4A7C2F;
