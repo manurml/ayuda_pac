@@ -1,3 +1,8 @@
+'use client';
+import { useState } from "react";
+
+const CSS = `
+
 import { useState } from "react";
 
 const CSS = `
